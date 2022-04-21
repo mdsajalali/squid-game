@@ -1,5 +1,7 @@
 # squid-game 
-Using 
+
+Used Technology
+
 #Html #Css #JavaScript
 
 Squid Game Landing Page Website | Responsive
